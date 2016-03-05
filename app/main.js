@@ -5,4 +5,6 @@ import {
 from 'react-dom';
 import Greeter from './Greeter';
 
+import './main.css'
+
 render(<Greeter></Greeter>, document.getElementById('root'));
